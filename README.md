@@ -13,7 +13,7 @@ Whatever the field, my approach is the same: a simple interface on top of a powe
 **Current work**
 
 - 🔬 **[Iris3D](https://github.com/HoseinHashemi/iris3d)** turns OCT and fundus images into a 3D eye in the browser. It includes retinal layer segmentation, thickness maps on the ETDRS grid, and a visual-pathway viewer with lesion simulation. Scan data never leaves your computer. **[Live demo →](https://hoseinhashemi.github.io/iris3d/)**
-- 👁️ **RetinaDelta** (private, coming soon) answers "what changed in this eye between two visits?". It works with any vendor's fundus, SLO and OCT files: it aligns the visits and outlines new, grown and resolved lesions. It also maps thickness change.
+- 👁️ **Delta Retina** (private, coming soon) answers "what changed in this eye between two visits?". It works with any vendor's fundus, SLO and OCT files: it aligns the visits and outlines new, grown and resolved lesions. It also maps thickness change.
 
 **Other projects**
 
